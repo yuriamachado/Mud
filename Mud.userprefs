@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Server.cs">
+    <Files>
+      <File FileName="Assets\Connect\Connect.cs" Line="29" Column="27" />
+      <File FileName="Assets\Client.cs" Line="67" Column="5" />
+      <File FileName="Assets\Server.cs" Line="351" Column="3" />
+      <File FileName="Assets\Room.cs" Line="7" Column="20" />
+      <File FileName="Assets\Comands.cs" Line="89" Column="14" />
+      <File FileName="Assets\PlayerNode.cs" Line="10" Column="32" />
+      <File FileName="Assets\Item.cs" Line="7" Column="29" />
+      <File FileName="Assets\ComandsType.cs" Line="27" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Yuri\Especializacao Puc\Mud\Assets\Comands.cs" line="126" />
+      <Breakpoint file="C:\Yuri\Especializacao Puc\Mud\Assets\Comands.cs" line="93" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
